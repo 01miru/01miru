@@ -36,6 +36,7 @@ I'm building a **Video Editing Application**. It’s a challenge involving compl
 ### 📸 Beyond Coding
 When I'm not debugging or containerizing apps, you'll find me at car meets. I'm passionate about **automotive photography** — chasing the perfect light and the best angles of beautiful machines. 🏎️💨
 
+> **Fun Fact:** I apply the same "composition" rules to my code as I do to my photos — clean, balanced, and focused on the subject.
 ---
 
 ### 📫 Let's connect!
