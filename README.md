@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 # Hi there! I'm Dorian 👋
 
-### Full-stack Developer | Django & HTMX Enthusiast 🐍⚡
+### 🐍 Full-stack Developer | Django & HTMX Specialist
 
-I’m a developer who loves building fast, reactive web applications. Currently, I'm focusing on the **"Hypermedia"** approach, keeping things powerful yet simple.
+I build high-performance web applications where logic meets visual precision. My current focus is bridging the gap between **backend architecture** and **dynamic frontend experiences**.
 
 ---
 
@@ -42,3 +42,8 @@ When I'm not debugging or containerizing apps, you'll find me at car meets. I'm 
 ### 📫 Let's connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dorian-nowak/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/moto_lens_dorian/)
+
+---
+<p align="center">
+  <i>"Code is poetry, but a 35mm lens tells a better story."</i>
+</p>
